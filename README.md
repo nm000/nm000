@@ -45,7 +45,7 @@ A systems engineering student with a strong interest in data analytics, database
 ### GitHub Analytics
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=nm000&theme=transparent&card_width=95&hide_border=true" alt="sonya-c" />
+  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=nm000&theme=transparent&card_width=95&hide_border=true" alt="nm000" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nm000&show_icons=true&locale=en&layout=compact&theme=transparent&&hide_progress=true&langs_count=10&hide_border=true" alt="nm000" />
 </p>
 
